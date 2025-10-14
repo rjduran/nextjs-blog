@@ -12,4 +12,4 @@ author:
 ogImage:
   url: /assets/blog/dynamic-routing/cover.jpg
 ---
-something interesting here
+nothing
